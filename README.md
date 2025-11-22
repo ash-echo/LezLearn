@@ -72,3 +72,4 @@ Tech stack: **Next.js (App Router)**, **React functional components**, **Tailwin
 - Add comments like `// TODO: integrate Supabase fetchCourses()` for backend slots.  
 - Generate placeholder images (unsplash/gradient masks) or use local `/public` assets.  
 - Ensure mobile-first responsiveness with reduced-motion accessibility.  
+.
